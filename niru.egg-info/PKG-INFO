@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: niru
+Version: 0.1.0
+Summary: Niru: a CLI assistant for natural-language system actions.
+Author: Niru Maintainer
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: yt-dlp>=2024.8.6
+
+- 👋 Hi, I’m @niru-2
+- 👀 I’m interested in learning AVOGADRO MOLECULAR BUILDER SOFTWARE.
+- 🌱 I’m currently learning GAMESS 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+niru-2/niru-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

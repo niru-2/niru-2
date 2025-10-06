@@ -1,0 +1,2 @@
+[console_scripts]
+niru = niru.cli:main
